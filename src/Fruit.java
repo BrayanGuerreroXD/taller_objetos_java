@@ -23,10 +23,6 @@ public class Fruit {
         return averageWeight;
     }
 
-    public void setAverageWeight(float averageWeight) {
-        this.averageWeight = averageWeight;
-    }
-
     public ArrayList<String> getColors() {
         return colors;
     }

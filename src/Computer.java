@@ -15,16 +15,8 @@ public class Computer {
         return ip;
     }
 
-    private void setIp(String ip) {
-        this.ip = ip;
-    }
-
     protected int getSerial() {
         return serial;
-    }
-
-    protected void setSerial(int serial) {
-        this.serial = serial;
     }
 
     public String getName() {
@@ -39,7 +31,13 @@ public class Computer {
         return type;
     }
 
-    public void setType(String type) {
-        this.type = type;
+    @Override
+    public String toString() {
+        return "Computer{" +
+                "ip='" + ip + '\'' +
+                ", serial=" + serial +
+                ", name='" + name + '\'' +
+                ", type='" + type + '\'' +
+                '}';
     }
 }
