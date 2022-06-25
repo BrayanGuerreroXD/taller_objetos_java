@@ -1,5 +1,9 @@
 import java.util.Date;
 
+/**
+ * Representa una personas con sus diferentes atributos
+ * @author Brayan Stewart Guerrero Ordoñez
+ */
 public class Person {
     public String name;
     public String lastName1;

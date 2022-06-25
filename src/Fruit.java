@@ -1,5 +1,9 @@
 import java.util.ArrayList;
 
+/**
+ * Representa una fruta con sus respectivos atributos
+ * @author Brayan Stewart Guerrero Ordoñez
+ */
 public class Fruit {
     public String name;
     private float averageWeight;

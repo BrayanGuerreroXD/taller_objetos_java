@@ -1,3 +1,7 @@
+/**
+ * Representa un smartphone con sus respectivos atributos
+ * @author Brayan Stewart Guerrero Ordoñez
+ */
 public class Smartphone {
     private int ip;
     protected String model;

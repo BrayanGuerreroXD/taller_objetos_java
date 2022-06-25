@@ -1,3 +1,7 @@
+/**
+ * Representa una cuenta de banco con sus respectivos atributos
+ * @author Brayan Stewart Guerrero Ordoñez
+ */
 public class BankAccount {
     private int accountNumber;
     boolean activate;
