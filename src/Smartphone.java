@@ -1,5 +1,6 @@
 /**
- * Representa un smartphone con sus respectivos atributos
+ * Representa un smartphone con sus respectivos atributos.
+ *
  * @author Brayan Stewart Guerrero Ordoñez
  */
 public class Smartphone {

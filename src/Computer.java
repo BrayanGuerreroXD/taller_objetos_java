@@ -1,5 +1,6 @@
 /**
- * Representa una computadora con sus respectivos atributos
+ * Representa una computadora con sus respectivos atributos.
+ *
  * @author Brayan Stewart Guerrero Ordoñez
  */
 public class Computer {
