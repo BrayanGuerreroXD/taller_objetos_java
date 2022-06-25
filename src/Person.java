@@ -1,13 +1,13 @@
 import java.util.Date;
 
-public class Persona {
+public class Person {
     public String name;
     public String lastName1;
     public String lastname2;
     public Date dateBirth;
     public float heigth;
 
-    public Persona(String name, String lastName1, String lastname2, Date dateBirth, float heigth) {
+    public Person(String name, String lastName1, String lastname2, Date dateBirth, float heigth) {
         this.name = name;
         this.lastName1 = lastName1;
         this.lastname2 = lastname2;
